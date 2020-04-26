@@ -1277,6 +1277,7 @@ N:	Jeremy Rosen <jeremy.rosen@openwide.fr>
 F:	package/fxload/
 
 N:	Jérôme Oufella <jerome.oufella@savoirfairelinux.com>
+F:	package/cukinia/
 F:	package/libdri2/
 F:	package/qt-webkit-kiosk/
 
